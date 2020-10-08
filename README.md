@@ -49,7 +49,7 @@
 
 ------------------
 
-### [全面理解 Java 内存模型](https://blog.csdn.net/suifeng3051/article/details/52611310)
+### [全面理解 Java 記憶體模型](https://blog.csdn.net/suifeng3051/article/details/52611310)
 
 作者：[CSDN \- 个人空间](https://me.csdn.net/suifeng3051)  時間 : 2016-09-21 
 
