@@ -135,7 +135,7 @@
 
 ## Kotlin 
 
-### [kotlin \- Coroutine 協程 \-](https://www.jianshu.com/p/76d2f47b900d)
+### [kotlin \- Coroutine 協程 \](https://www.jianshu.com/p/76d2f47b900d)
 作者：[前行的乌龟](https://www.jianshu.com/u/fb093dd92ed8)  時間：2019-03-28  來源：簡書
 > 協程，執行續(線程)輕鬆解析。
 
@@ -349,7 +349,7 @@
 
 
 
-### [Fragment完全解析三步曲 ](http://www.jianshu.com/p/d9143a92ad94)
+### [Fragment完全解析三步曲](http://www.jianshu.com/p/d9143a92ad94)
 
 作者：[YoKey](https://github.com/YoKeyword)  時間：2016-02-27  來源：简书
 
