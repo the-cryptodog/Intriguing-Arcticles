@@ -18,6 +18,14 @@
 
 ## 多面向系列文章
 
+### [科學上網](https://10beasts.net/)
+
+作者：[匿名](https://10beasts.net/)  時間：自由是血液  來源 : 民主是空氣
+
+> 很多技術文章在牆內看不到，這裡提供一些相對安全的VPN，身為人類，就一定要會科學上網。
+
+------------------
+
 
 ### [Weekly blog](https://github.com/itsCoder/weeklyblog)
 
@@ -105,6 +113,15 @@
 
 ## Android
 
+### [Android基礎導論](https://juejin.im/post/6870111983933325319)
+
+作者：[前行的乌龟](http://hukai.me)  時間：2020-09-08  來源：簡書
+
+> 其實有點像教材廣告，但為了打廣告還是囊括了很安卓開發者的技能樹，裡面的連結也可以參考，有人問我該不開花錢買教材
+我認為花錢節省時間就可以花，但要有個認知，花錢是為了省時間而不是知識，因為知識只能用時間買，而時間比錢珍貴。
+換句話說，錢能如果在某種場合能真的換到時間，就換吧!
+
+------------------
 
 
 ### [Android 性能優化](http://hukai.me/blog/categories/android-performance/)
@@ -132,8 +149,42 @@
 
 ------------------
 
+### [帶你封裝自己的MVP+Retrofit+RxJava2框架](https://juejin.im/post/6844904070373703687)
+
+作者：[许朋友爱玩]  時間：2020-02-23  來源：簡書
+
+> 對開發者來說封裝自己的Base類對於開發效率是很有幫助的，這篇詳載了Activity和Fragment基於MVP的封裝使用，
+我目前也在嘗試建立一個優雅的library來當作BaseProject，此篇觸及很多關鍵知識，文長但非常優。
+
+------------------
+
+
+### [runOnUiThread 、Handler.post、View.post分析](https://www.jianshu.com/p/393756a0c782)
+
+作者：[Burjal]  時間：2017-12-12  來源：簡書
+
+> 執行續這種東西就是想要用到的時候都會需要再爬爬文章看看底層有沒有忘記什麼關鍵，避免把Code寫冗了，這篇算是官方文件的整理翻譯，可以溫故知新。
+
+------------------
+
+### [Android Camera2教程之打開相機、開啓預覽、實現PreviewCallback、拍照](https://www.twblogs.net/a/5b7af22e2b7177392c974274)
+
+作者：[NULL_]  時間：2018-08-21  來源：台部落
+
+> 開發相機功能時會需要理解的基本流程，其實流程挺制式化的，但這篇文章每一個步驟都有助解，搭配官方文章很快就能搞懂應用方法。
+
+------------------
+
 
 ## Kotlin 
+
+
+### [Kotlin必學基礎](https://www.coursera.org/learn/kotlin-for-java-developers)
+作者：Coursera  來源：Coursera
+> 官方教學淺顯易懂，最好的基礎來源。
+
+------------------
+
 
 ### [kotlin \- Coroutine 協程 \](https://www.jianshu.com/p/76d2f47b900d)
 作者：[前行的乌龟](https://www.jianshu.com/u/fb093dd92ed8)  時間：2019-03-28  來源：簡書
@@ -361,7 +412,7 @@
 
 ## 網路
 
-### [網路基礎知識補補全](http://linux.vbird.org/linux_server/0360apache.php)  
+### [網路基礎知識補補全](http://linux.vbird.org/linux_server/0110network_basic.php#whatisnetwork_what)  
 
   作者：[鳥哥]((http://linux.vbird.org/)  時間：2012-12-14  來源：個人部落格  
 
@@ -373,11 +424,24 @@
 
 ## 後端
 
+
+
+### [成為後端( Backend ) 工程師學習地圖](https://softnshare.com/backenddeveloper/)
+
+  作者：[Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap) 
+
+> 轉載大神學習Roadmap，學習永無止盡，給後端開發者參考。
+
+
+------------------
+
 ### [我所認為的RESTful API最佳實踐](https://www.scienjus.com/my-restful-api-best-practices/)
 
   作者：[ScienJus](https://www.scienjus.com)  時間：2016-04-03  來源：个人博客  
 
 > RESTful API的文章太多打醬油，有些該講的不講，有些廢話太多，這篇厲害就在於完整易讀，值得多看幾遍。
+
+
 
 
 ------------------
