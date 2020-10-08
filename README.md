@@ -1,4 +1,4 @@
-# BrilliantSource
+# Intriguing Articles
 
 
 **留下最好的技術文章，溫故知新，只會往前**
@@ -135,7 +135,7 @@
 
 ## Kotlin 
 
-### [kotlin \- Coroutine 協程 \- 简书](https://www.jianshu.com/p/76d2f47b900d)
+### [kotlin \- Coroutine 協程 \-](https://www.jianshu.com/p/76d2f47b900d)
 作者：[前行的乌龟](https://www.jianshu.com/u/fb093dd92ed8)  時間：2019-03-28  來源：簡書
 > 協程，執行續(線程)輕鬆解析。
 
@@ -166,7 +166,7 @@
 ------------------
 
 
-### [探索Activity之啟動Intent Flag和taskAffinity - 簡書](https://www.jianshu.com/p/c97688eb5056#h5o-9)
+### [探索Activity之啟動Intent Flag和taskAffinity](https://www.jianshu.com/p/c97688eb5056#h5o-9)
 
 作者：[anly_kun](https://www.jianshu.com/u/bc1dacc65fae)  時間：2016.07.31  来源：簡書
 
@@ -197,7 +197,7 @@
 
 
 
-### [RecyclerView 必知必会](https://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA)
+### [RecyclerView 必知必會](https://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA)
 
 
 作者：[腾讯 天天P图团队——damonxia(夏正冬)，Android工程师]()  時間：2017-01-05  來源：腾讯 bugly 
@@ -220,7 +220,7 @@
 
 
 
-### [Dagger2 入門,以初學者角度](https://www.jianshu.com/p/1d84ba23f4d2)
+### [Dagger2 入門 - 以初學者角度](https://www.jianshu.com/p/1d84ba23f4d2)
 
 
 作者：[zFxiang_](http://blog.izouxiang.cn/)  時間：2016-10-29  來源：简书  
