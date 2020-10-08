@@ -62,7 +62,7 @@
 ------------------
 
 
-### [安卓架構組件(Architecture Components) 系列文章翻译](http://www.jianshu.com/p/349f4791a668)
+### [安卓架構組件(Architecture Components) 系列文章翻譯](http://www.jianshu.com/p/349f4791a668)
 
 作者：[Chuckiefan](http://chuckiefan.com/)  時間：2017-06-07  來源：簡書
 
